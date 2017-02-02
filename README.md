@@ -11,3 +11,5 @@
 | Pieter Kemper | StudentenBureau Den Bosch | p.kemper@studentenbureau.nl |
 | Dorus de Bruyn | Stageplaza.nl & YAP recruitment | dorus@stageplaza.nl |
 | Elise van Ingen | StarApple | elise@starapple.nl |
+| Gabby Bandt | Searchlite | gabby@searchlite.nl |
+| Iris Berg | Searchlite | iris@searchlite.nl |
