@@ -10,3 +10,4 @@
 | Robert-Jan van Meulen | U-choose | rj.van.meulen@u-choose.nl |
 | Pieter Kemper | StudentenBureau Den Bosch | p.kemper@studentenbureau.nl |
 | Dorus de Bruyn | Stageplaza.nl & YAP recruitment | dorus@stageplaza.nl |
+| Elise van Ingen | StarApple | elise@starapple.nl |
