@@ -14,3 +14,4 @@
 | Gabby Bandt | Searchlite | gabby@searchlite.nl | |
 | Iris Berg | Searchlite | iris@searchlite.nl | |
 | | Computer Technologies | | 0102069800 |
+| Charlie Ton | Jouw front-end vacature | c.ton@jouwfrontendvacature.nl | 06 18 13 17 74, 050 210 10 01 |
