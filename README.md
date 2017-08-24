@@ -2,7 +2,6 @@
 
 | Naam | Bedrijfsnaam | E-mailadres | Telefoonnummer
 | --- | --- | --- | --- |
-| Joost van Liempt | Studentenbureau | joost.vanliempt@studentenbureau.nl | |
 | Maarten de Ruiter | WR | maarten@wr.nl | |
 | Nelson Monteiro | StarApple | nelson@starapple.nl | |
 | Wouter Ooms | Ardekay | wouter.ooms@ardekay.com | |
