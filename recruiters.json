@@ -1,10 +1,20 @@
-[{
-  "first_name": "Kirsten",
-  "last_name":"Tol",
-  "email":"k.tol@php-professionals.nl",
-  "company":{
-    "name":"PHP Professionals"
+[
+  {
+    "first_name": "Kirsten",
+    "last_name":"Tol",
+    "email":"k.tol@php-professionals.nl",
+    "company":{
+      "name":"PHP Professionals"
+    },
+    "phone":"0208200675",
+    "mobile_phone":"0683579295"
   },
-  "phone":"0208200675",
-  "mobile_phone":"0683579295"
-}]
+  {
+    "first_name":"Joost",
+    "last_name":"van Liempt",
+    "email":"joost.vanliempt@studentenbureau.nl",
+    "company":{
+      "name":"Studentenbureau"
+    },
+  }
+]
